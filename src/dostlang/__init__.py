@@ -1,2 +1,2 @@
-def bhailang(msg):
+def bolbhai(msg):
     print(msg)

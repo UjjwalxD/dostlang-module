@@ -8,7 +8,7 @@ This is a python module made for fun in coding.
 pip install dostlang
 ```
 ```bash
-from dostlang import DostLang
+from dostlang import bolbhai
 ```
 ```bash
 bolbhai("hello...")
